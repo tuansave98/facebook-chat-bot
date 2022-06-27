@@ -76,6 +76,10 @@ class WordpressAPI {
         });
 
     }
+
+    getComment(numberOfPost){
+        
+    }
 }
 
 module.exports = new WordpressAPI();
